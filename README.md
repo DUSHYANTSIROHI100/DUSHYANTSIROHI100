@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @DUSHYANTSIROHI100
 - 👀 I’m interested in HTML , CSS, JAVASCRIPT,PHP,JAVA,PYTHON,C++,PHOTOSHOP,REACT AND SO ON......
-- 🌱 I’m currently learning 4TH YEAR B.TECH
-- 💞️ I’m looking to collaborate on PROJECT
+- 🌱 I Completed my B.TECH in 2022.
+- 💞️ I’m looking to collaborate on PROJECT.
 - 📫 How to reach me CONTACT US:-91 9667925714
 
 <!---
